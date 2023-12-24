@@ -2,7 +2,7 @@
 
 # preview
 
-![Screenshot from 2023-08-14 02-49-10](https://github.com/keroles19/wthq-users-products/assets/36054945/6e645b7f-3dd4-4a5c-aeff-e3c1e6442770)
+![Screenshot from 2023-08-14 02-49-10](https://github.com/keroles19/wthq-users-products/assets/36054945/1d354df3-d92f-4ba9-b87f-d79692e08a11)
 
 
 ## BY
